@@ -590,9 +590,4 @@ button { font: inherit; color: inherit; }
   .petals, .flyers { display: none; }
 }
 
-
-
-  
-Hi @vsudar, welcome to the team! I'm Deepak, and I'll be your point of contact while Ryota is away next week.
-
-Let's set up a call on Monday (Nov 2) to walk through STC and how we onboard services. What time works for you? I'm in IST.
+.story-card.last .photo img { object-fit: contain; }
